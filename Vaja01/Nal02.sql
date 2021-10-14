@@ -1,0 +1,2 @@
+SELECT naziv
+FROM zanr;

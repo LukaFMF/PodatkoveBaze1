@@ -1,0 +1,4 @@
+SELECT ime
+FROM oseba
+ORDER BY ime ASC
+LIMIT 10;
