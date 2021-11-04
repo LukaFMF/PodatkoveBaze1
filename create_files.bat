@@ -1,0 +1,1 @@
+for /l %%A in (10 1 15) do type nul > Vaja04\moreJoin%%A.sql
