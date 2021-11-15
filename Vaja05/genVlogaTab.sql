@@ -1,0 +1,4 @@
+CREATE TABLE vloge(
+	id INTEGER PRIMARY KEY,
+	opis TEXT
+);

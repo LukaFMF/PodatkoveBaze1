@@ -1,0 +1,5 @@
+CREATE TABLE predmeti(
+	id INTEGER PRIMARY KEY,
+	ime TEXT,
+	ects INTEGER
+);
