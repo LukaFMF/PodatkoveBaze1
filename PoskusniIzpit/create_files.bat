@@ -1,0 +1,1 @@
+for /l %%A in (10 1 17) do type nul > naloga%%A.sql
